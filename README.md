@@ -1,6 +1,7 @@
 # Exercice Tests JS avec React
 
 Clonez le projet react et initialisez le projet avec `npm install`
+
 Completez les tests situés dans le dossier `src/tests`
 
 #### Documentation des librarie de tests utilisées : 
