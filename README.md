@@ -16,7 +16,7 @@ Pour lancer les tests utilisez la commande `npm test`
 
 Pensez à jetez un oeil sur les différents composants react pour savoir comment ils fonctionnent (ils sont très simple rien bien de compliqué)
 
-#### Documentation des librarie de tests utilisées : 
+#### Documentation des libraries de utilisées : 
 
 - [React Testing Librairie](https://testing-library.com/docs/react-testing-library/intro)
 - [Jest](https://jestjs.io/fr/docs/getting-started)
